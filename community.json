@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "account.entropiauniverse.com",
+        "user.auth.xboxlive.com",
+        "xsts.auth.xboxlive.com",
+        "gomining.com",
+        "gmt.io",
+        "nintendo.net",
+        "nintendo.com",
+        "steamgriddb.com",
+        "gql.twitch.tv",
+        "usher.ttvnw.net",
+        "l2reborn.org",
+        "zap-hosting.com",
+        "zap-cdn.com"
+      ]
+    }
+  ]
+}
